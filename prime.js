@@ -1,3 +1,4 @@
+
 function checkPrime(num) {
   let count = 0;
   for (let i = 2; i <= num; i++) {
@@ -12,3 +13,4 @@ function checkPrime(num) {
   }
 }
 console.log(checkPrime(7));
+
